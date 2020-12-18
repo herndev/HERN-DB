@@ -5,8 +5,6 @@
 ## By: *Hernie Jabien*
 
 - A local database module application for python language.
-</br>
-</br>
 
 ### **FAQS:**
 
