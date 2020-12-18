@@ -4,7 +4,7 @@
 # **HERN DB BETA V1.6**
 ## By: *Hernie Jabien*
 
-- A local database module application for python language.
+- A local database module & desktop application for python language.
 
 ### **FAQS:**
 
